@@ -50,7 +50,7 @@ Concerning the resistor size, I am usually using small-size resistors, about hal
 I shared the .hex files for the STM32F373 chip (bootloader and main) in the folder Firmware.
 The version of those files is V1.1, as available in the Mutable Instruments GitHub repository.
 
-However, the latest version V1.2 with all the new synthesis models can also be loaded to this DIY module version via the available .wav files, as described in the official Plaits manual.
+However, the latest version V1.2 with all the new synthesis models can also be loaded to this DIY module version via the available .wav file, as described in the official Plaits manual.
 
 ## Programming
 The main PCB contains connection points for both connector types for programming STM32 chips, JTAG and UART. Those can be used for standard pins with 2.54mm distance. Depending on the available connector, you only need one of those two connection point groups.
