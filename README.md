@@ -40,7 +40,7 @@ There is a number of SMD components in this build:
 - LM4040B10 (voltage regulator, SOT-23-3 package)
 - MCP6004 (quad op amp, 14-SOIC package)
 - NJM4580 (dual op amp, 8-SOIC package, any SMD version of a TL072 is also fine)
-- BAT54ST (diode array, SOT-533 package)
+- BAT54ST (diode array, SOT-523 package)
 - BLM18R (ferrite bead, 1608 package)
 - 0.1uF capacitors (1608 package)
 
