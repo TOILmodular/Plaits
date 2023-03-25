@@ -22,14 +22,12 @@
 | Capacitor Ceramic | 1000pF | 16 | |
 | Capacitor Ceramic | 100pF | 4 | |
 | Capacitor Ceramic | 20pF | 2 | |
-| Diode Array | BAT54ST | CAUTION: "ST" is important! There are different BAT54 versions |
-| Transistor | MMBT3904 | 5 | SMD (SOT-23) |
-| Op Amp | TL074 | 1 | |
-| Op Amp | TL072 | 1 | |
-| Op Amp | MCP6004 | 1 | |
-| Shift Register | 74HC595 | 2 | |
-| DAC | DAC8501 | 1 | SMD (8-VSSOP) |
-| ADC | MCP3204 | 1 | |
+| Diode Array | BAT54ST | 1 | SMD (SOT-523 package). CAUTION: "ST" is important! There are different BAT54 versions |
+| Diode | 1N5819 | 2 | |
+| LED | 2-color, common anode | 8 | |
+| Op Amp | NJM4580 or TL072 | 1 | SMD (8-SOIC) |
+| Op Amp | MCP6004 | 2 | SMD (14-SOIC) |
+| DAC | PCM5100APW | 1 | SMD (20-TSSOP) |
 | Voltage Regulator | LM1117-3.3 | 1 | SMD (SOT-223) |
 | Voltage Regulator | LM4040B25 | 1 | SMD (SOT-23) |
 | Voltage Regulator | LM4040B10 | 1 | SMD (SOT-23) |
