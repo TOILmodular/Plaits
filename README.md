@@ -34,7 +34,7 @@ I added the information about hole coordinates for the front panel in the folder
 ## Additional Information about specific Components
 There is a number of SMD components in this build:
 - STM32F 373 CCT6 (microcontroller, LQFP48 package)
-- PCM5100 (DAC, 20-TSSOP package)
+- PCM5100APW (DAC, 20-TSSOP package)
 - TLC59281DBQ (LED driver, 24-SSOP package)
 - LD2981ABU33 (voltage regulator, SOT-89-3 package)
 - LM4040B10 (voltage regulator, SOT-23-3 package)
