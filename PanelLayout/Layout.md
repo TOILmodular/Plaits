@@ -39,4 +39,4 @@ Coordinates origin is the lower left corner of the panel.
 | 26 | 37.5 | 15 | Output Jack |
 | 27 | 47.5 | 15 | Aux Out Jack |
 
-![Panel](https://user-images.githubusercontent.com/97026614/227709006-a9e2a73a-a953-4929-94f7-2f4f63d86080.png)
+<img height="1200" src="https://user-images.githubusercontent.com/97026614/227709006-a9e2a73a-a953-4929-94f7-2f4f63d86080.png"> 
