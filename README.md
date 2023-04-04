@@ -3,7 +3,7 @@ A DIY clone of the Mutable Instruments Plaits module.
 
 <img height="500" src="https://user-images.githubusercontent.com/97026614/227704645-73dd12a4-f4f5-40ce-8f53-5245141ef417.jpg"> <img height="500" src="https://user-images.githubusercontent.com/97026614/227704723-5b2b9fb4-2128-4a68-8ade-91d2d9bf699a.jpg">
 
-<img height="500" src="https://user-images.githubusercontent.com/97026614/227704752-4f141f72-66cd-4081-84a6-7ae3ce55444a.jpg"> <img height="500" src="https://user-images.githubusercontent.com/97026614/227704778-69f0c88f-70fe-4d54-9dc2-0bb18a208407.jpg">
+<img height="500" src="https://user-images.githubusercontent.com/97026614/229717438-1c22990d-5d25-4906-96e2-fcb83a1bf992.jpg"> <img height="500" src="https://user-images.githubusercontent.com/97026614/229717290-28661ffa-5f09-4712-8173-6bd269c22ebf.jpg">
 
 ## Module Build and PCBs
 If you want to build the module yourself, I uploaded firmware, schematic, BOM and Gerber files for the PCB.
@@ -16,10 +16,11 @@ Reason is that for my own module, I am using specific potentiometers - 16K4 seri
 
 <img width="300" alt="Plaits_CtrlBoard_original" src="https://user-images.githubusercontent.com/97026614/227705266-db77d62c-a098-4379-aa64-d45a7b9647fa.png">
 
+
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created a version with footprints for those components.
 Choose the one you need.
 
-<img width="300" alt="Plaits_CtrlBoard_Thonk" src="https://user-images.githubusercontent.com/97026614/227705286-c65731fd-1e16-4edf-a84a-a6c3b62e1d7a.png">
+<img width="300" alt="Plaits_CtrlBoard_Thonk" src="https://user-images.githubusercontent.com/97026614/229720069-4d4d9e9d-3c3e-4184-b632-b5b17823732d.png">
 
 The layout of the main PCB is sligthly different for each version. I needed to move some of the board connector pin locations, due to the different shape of the jack sockets. Please make sure to use the right control and main board PCBs.
 
