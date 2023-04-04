@@ -47,7 +47,9 @@ There is a number of SMD components in this build:
 
 Concerning the resistor size, I am usually using small-size resistors, about half the length of the usual size, so they need less space on the PCB. If you want to use my Gerber files, you have to consider that fact. You might still use normal size resistors and put them in a standing position on the boards. Should also work fine.
 
-On the control board, you will find an electrolytic capacitor with a rectangle next to them. Since this capacitors is too tall for standing upright on the board with the main board on top of it, the capacitor needs to be mounted in a rectangular position. The rectangle shows the position for the bent-over capacitor.
+On the control board, you will find an electrolytic capacitor with a rectangle next to it. Since this capacitors is too tall for standing upright on the board with the main board on top of it, the capacitor needs to be mounted in a rectangular position. The rectangle shows the position for the bent-over capacitor.
+
+<img width="350" alt="Cap bent over" src="https://user-images.githubusercontent.com/97026614/229722617-4b4332b7-431d-4968-b0d0-a5d966044eab.jpg">
 
 ## Firmware
 I shared the .hex files for the STM32F373 chip (bootloader and main) in the folder Firmware.
