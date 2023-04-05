@@ -29,7 +29,7 @@
 | Op Amp | MCP6004 | 2 | SMD (14-SOIC) |
 | DAC | PCM5100APW | 1 | SMD (20-TSSOP) |
 | Microcontroller | STM32F373CCT6 | 1 | SMD (48-LQFP) |
-| LED Driver | TLC59281DBQ | 1 | SMD (24-TSSOP) |
+| LED Driver | TLC59281DBQ | 1 | SMD (24-SSOP) |
 | Oscillator Crystal | 8MHz | 1 | leg distance 4.8mm |
 | Voltage Regulator | LD2981ABU33 | 1 | SMD (SOT-89-3) |
 | Voltage Regulator | R-78E3.3-0.5 | 1 | |
