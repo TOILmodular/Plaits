@@ -65,3 +65,14 @@ Besides that, there are two connection points for putting the chip into boot mod
 If you want to see more about the chip programming process, you can check out my [YouTube video](xxx).
 
 <img width="321" alt="ProgrammingConnectors" src="https://user-images.githubusercontent.com/97026614/227706871-7a7d2b94-ab19-4e98-b119-1c4047258e0a.png">
+
+## Calibration
+The calibration procedure is the same, as the one for the original module from Mutable Instruments.
+
+1. Disconnect all CV inputs.
+2. Connect the note CV output of a well-calibrated keyboard interface or MIDI-CV converter to the V/OCT input. Leave all the other CV inputs unpatched.
+3. Press both buttons. The first LED slowly blinks. The color depends on the diodes used. The original one is blinking green.
+4. Send a voltage of 1.000V to the V/OCT input.
+5. Press any button. The first LED now blinks in the combined color of the 2-color LED.
+6. Send a voltage of 3.000V to the V/OCT input.
+7. Press any button.
