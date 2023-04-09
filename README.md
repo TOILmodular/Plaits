@@ -62,7 +62,7 @@ The main PCB contains connection points for both connector types for programming
 
 Besides that, there are two connection points for putting the chip into boot mode, which is needed for loading the bootloader file. Just solder a 1x2 pin with standard 2.54mm distance to connection points labeled "BOOT". For activating the boot mode, place a jumper onto the pins. As soon as the bootloder is uploaded, remove the jumper to put the chip into operation mode, so the main code can be uploaded.
 
-If you want to see more about the chip programming process, you can check out my [YouTube video](xxx).
+If you want to see more about the chip programming process, you can check out my [YouTube video](https://youtu.be/9D4ZEAn3BBg).
 
 <img width="321" alt="ProgrammingConnectors" src="https://user-images.githubusercontent.com/97026614/227706871-7a7d2b94-ab19-4e98-b119-1c4047258e0a.png">
 
