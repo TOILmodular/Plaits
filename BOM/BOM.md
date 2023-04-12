@@ -33,7 +33,7 @@
 | Oscillator Crystal | 8MHz | 1 | leg distance 4.8mm |
 | Voltage Regulator | LD2981ABU33 | 1 | SMD (SOT-89-3) |
 | Voltage Regulator | R-78E3.3-0.5 | 1 | |
-| Voltage Regulator | LM4040B10 | 1 | SMD (SOT-23) |
+| Voltage Regulator | LM4040B10 | 1 | SMD (SOT-23-3) |
 | Inductor | 33uH | 1 | axial THT, if you use my PCB design |
 | Ferrite Bead | BLM18R | 3 | SMD (1608) |
 | Potentiometer | B10K | 7 | |
