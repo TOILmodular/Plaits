@@ -41,7 +41,7 @@
 | Switch | Tactile | 2 | e.g. Mouser: TL1105SPF160Q1RBLK |
 | Header | 2.54mm Male 1x7 | 4 | Connector Main Board |
 | Header | 2.54mm Female 1x7 | 4 | Connector Control Board |
-| Header | 2.54mm Female 2x5 | 1 | Power Connector |
+| Header | 2.54mm Male 2x5 | 1 | Power Connector |
 
 *) Depending on the LEDs used, they might be too bright. The resistor labeled as "LED" can be used to adjust the brightness by reducing the current from the common anode to each LED. The original design from Mutable Instruments does not include that resistor. So if you use the same LEDs, as in the commercial module, you can just bridge the resistor points with a wire. Otherwise try out different resistor values to adjust the LED brightness.
 
