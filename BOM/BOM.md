@@ -35,7 +35,7 @@
 | Voltage Regulator | R-78E3.3-0.5 | 1 | |
 | Voltage Regulator | LM4040B10 | 1 | SMD (SOT-23-3) |
 | Inductor | 33uH | 1 | axial THT |
-| Ferrite Bead | BLM18R | 3 | SMD (1608) |
+| Ferrite Bead | BLM18R, 1kOhm | 3 | SMD (1608) |
 | Potentiometer | B10K | 7 | |
 | Mono Jack | 3.5mm | 10 | |
 | Switch | Tactile | 2 | e.g. Mouser: TL1105SPF160Q1RBLK |
