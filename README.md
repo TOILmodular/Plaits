@@ -30,7 +30,7 @@ I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB
 I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
 
 ### !!!CAUTION!!!
-I have been made aware, that there were erroneus labels for two components on the silk screen of the control board for the "Thonk" version.
+I have been made aware, that there were erroneous labels for two components on the silk screen of the control board for the "Thonk" version.
 Next to the TLC59281DBQ IC, there are a BLM18R ferrite bead and a 0.1uf capacitor. Both have the same SMD package size. But the labels were swapped in my first version.
 I already corrected the Gerber file. But if you have a version with the capacitor on top of the ferrite bead, then that is the incorrect first version!
 
