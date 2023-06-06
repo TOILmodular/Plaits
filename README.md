@@ -36,7 +36,7 @@ I already corrected the Gerber file. But if you have a version with the capacito
 
 The following picture shows the CORRECT labeling of both components.
 
-<img width="500" alt="Silk Screen Correction" src="https://github.com/TOILmodular/Plaits/assets/97026614/991094e7-6224-459f-9d6e-b486d881b4b6">
+<img width="300" alt="Silk Screen Correction" src="https://github.com/TOILmodular/Plaits/assets/97026614/991094e7-6224-459f-9d6e-b486d881b4b6">
 
 ## Panel Layout
 I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files.
