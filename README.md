@@ -32,9 +32,9 @@ I cannot guarantee, if this set of zipped Gerber files works also for other prov
 ### !!!CAUTION!!!
 I have been made aware, that there were erroneus labels for two components on the silk screen of the control board for the "Thonk" version.
 Next to the TLC59281DBQ IC, there are a BLM18R ferrite bead and a 0.1uf capacitor. Both have the same SMD package size. But the labels were swapped in my first version.
-I already corrected the Gerber file. But if you have a version with the capacitor on top of the ferrite bead, then that is incorrect!
+I already corrected the Gerber file. But if you have a version with the capacitor on top of the ferrite bead, then that is the incorrect first version!
 
-The following picture shows the CORRECT postions of both components.
+The following picture shows the CORRECT labeling of both components.
 
 <img width="500" alt="Silk Screen Correction" src="https://github.com/TOILmodular/Plaits/assets/97026614/991094e7-6224-459f-9d6e-b486d881b4b6">
 
